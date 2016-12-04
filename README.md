@@ -6,9 +6,9 @@
 
 1. Git clone the project
 2. cd into the project
-3. run 'npm install' from the terminal
+3. run `npm install` from the terminal
 
 #### To Run
 
-1. npm test // dev server
-2. npm start // build and bundle package for prod
+1. `npm test // dev server`
+2. `npm start // build and bundle package for prod`
