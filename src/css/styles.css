@@ -1,0 +1,15 @@
+body{
+	font-family: Arial;
+	font-size:16px;
+}
+div.name{
+	font-family: 'Helvetica';
+	font-size:16px;
+
+}
+.first{
+	font-style: italic;
+}
+.last{
+	text-decoration: underline;
+}
