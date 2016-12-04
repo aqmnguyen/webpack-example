@@ -1,6 +1,6 @@
-# Beginner's Guide to Webpack Repo
+# Sample Webpack Repo
 
-#### This goes along with the medium post [Beginner's Guide to Webpack](https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460)
+#### Built using the following medium post [Beginner's Guide to Webpack](https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460)
 
 ##### To get started with this project, do the following:
 
